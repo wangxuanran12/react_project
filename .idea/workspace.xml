@@ -10,7 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="857ec115-a53d-4eb4-a2f9-7b48530b3145" name="Default Changelist" comment="111" />
+    <list default="true" id="857ec115-a53d-4eb4-a2f9-7b48530b3145" name="Default Changelist" comment="1111">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +26,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_COMMON_BRANCH" value="master" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
@@ -44,6 +47,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -55,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599292344590</updated>
-      <workItem from="1599292346720" duration="4165000" />
+      <workItem from="1599292346720" duration="5302000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <created>1599294220747</created>
@@ -86,14 +90,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="111" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="437" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599298819468">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="437" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599298819468" />
     <state x="713" y="197" key="FileChooserDialogImpl" timestamp="1599296321836">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="713" y="197" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599296321836" />
-    <state x="478" y="170" key="Vcs.Push.Dialog.v2" timestamp="1599296347670">
+    <state x="478" y="170" key="Vcs.Push.Dialog.v2" timestamp="1599298699297">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="478" y="170" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1599296347670" />
+    <state x="478" y="170" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1599298699297" />
+    <state x="718" y="410" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599298632078">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="718" y="410" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1599298632078" />
     <state x="573" y="258" key="git4idea.merge.GitPullDialog" timestamp="1599295923795">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
