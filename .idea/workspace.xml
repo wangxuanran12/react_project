@@ -10,7 +10,25 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="857ec115-a53d-4eb4-a2f9-7b48530b3145" name="Default Changelist" comment="111" />
+    <list default="true" id="857ec115-a53d-4eb4-a2f9-7b48530b3145" name="Default Changelist" comment="ignore">
+      <change afterPath="$PROJECT_DIR$/src/components/InboxScreen.stories.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Task.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Task.stories.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TaskList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TaskList.stories.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TaskList.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/redux.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react_project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helloworld_react.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/InboxScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +42,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_COMMON_BRANCH" value="master" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
@@ -37,13 +56,20 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../testgit" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.1.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -55,7 +81,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599292344590</updated>
-      <workItem from="1599292346720" duration="4165000" />
+      <workItem from="1599292346720" duration="5302000" />
+      <workItem from="1599440906822" duration="24000" />
+      <workItem from="1599446253593" duration="14280000" />
+      <workItem from="1599528962299" duration="8410000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <created>1599294220747</created>
@@ -80,20 +109,87 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="111" />
-    <option name="LAST_COMMIT_MESSAGE" value="111" />
+    <MESSAGE value="测试git" />
+    <MESSAGE value="ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="ignore" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="713" y="197" key="FileChooserDialogImpl" timestamp="1599296321836">
+    <state x="437" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599447349489">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="713" y="197" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599296321836" />
-    <state x="478" y="170" key="Vcs.Push.Dialog.v2" timestamp="1599296347670">
+    <state x="437" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599447349489" />
+    <state x="210" y="69" key="DiffContextDialog" timestamp="1599439502568">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="478" y="170" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1599296347670" />
+    <state x="210" y="69" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599439502568" />
+    <state x="713" y="197" key="FileChooserDialogImpl" timestamp="1599440928249">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="713" y="197" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599440928249" />
+    <state width="1877" height="356" key="GridCell.Tab.0.bottom" timestamp="1599467853649">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="356" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599467853649" />
+    <state width="1877" height="356" key="GridCell.Tab.0.center" timestamp="1599467853649">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="356" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599467853649" />
+    <state width="1877" height="356" key="GridCell.Tab.0.left" timestamp="1599467853649">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="356" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599467853649" />
+    <state width="1877" height="356" key="GridCell.Tab.0.right" timestamp="1599467853649">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="356" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599467853649" />
+    <state width="1877" height="356" key="GridCell.Tab.1.bottom" timestamp="1599467853649">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="356" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599467853649" />
+    <state width="1877" height="356" key="GridCell.Tab.1.center" timestamp="1599467853649">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="356" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599467853649" />
+    <state width="1877" height="356" key="GridCell.Tab.1.left" timestamp="1599467853649">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="356" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599467853649" />
+    <state width="1877" height="356" key="GridCell.Tab.1.right" timestamp="1599467853649">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="356" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599467853649" />
+    <state width="1877" height="356" key="GridCell.Tab.2.bottom" timestamp="1599467853650">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="356" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599467853650" />
+    <state width="1877" height="356" key="GridCell.Tab.2.center" timestamp="1599467853649">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="356" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599467853649" />
+    <state width="1877" height="356" key="GridCell.Tab.2.left" timestamp="1599467853649">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="356" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599467853649" />
+    <state width="1877" height="356" key="GridCell.Tab.2.right" timestamp="1599467853649">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="356" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599467853649" />
+    <state x="478" y="170" key="Vcs.Push.Dialog.v2" timestamp="1599439505489">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="478" y="170" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1599439505489" />
+    <state x="718" y="410" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599298632078">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="718" y="410" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1599298632078" />
+    <state x="586" y="186" width="748" height="668" key="find.popup" timestamp="1599534308158">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="586" y="186" width="748" height="668" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1599534308158" />
     <state x="573" y="258" key="git4idea.merge.GitPullDialog" timestamp="1599295923795">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
